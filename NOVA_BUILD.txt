@@ -1,0 +1,5 @@
+Nova Video Editor starter generated as a Flutter cross-platform project.
+Run: flutter pub get
+Then: flutter run
+For Android release: flutter build appbundle
+For iOS release: flutter build ipa (requires macOS/Xcode and Apple signing).
